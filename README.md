@@ -12,3 +12,6 @@ The dataset is in csv format and has 7 columns:
 - **Annotator2**: Tag given by the second annotator (not always the same person when considering different sentences).
 - **Agreed_Label**: Tag given by the annotators if there is an agreements; otherwise, the tag is *no_agr*.
 - **Revised_Label**: The final tag (after revision) if there is no agreement.
+
+# Citation
+If you are going to use the dataset, please cite "CAraNER: The COVID-19 Arabic Named Entity Corpus", Abdulmohsen Al-Thubaity, Sakhar Alkhereyf, Wejdan Alzahrani, and Alia Bahansha, WANLP 2022.
