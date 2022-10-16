@@ -14,4 +14,4 @@ The dataset is in csv format and has 7 columns:
 - **Revised_Label**: The final tag (after revision) if there is no agreement.
 
 # Citation
-If you are going to use the dataset, please cite "CAraNER: The COVID-19 Arabic Named Entity Corpus", Abdulmohsen Al-Thubaity, Sakhar Alkhereyf, Wejdan Alzahrani, and Alia Bahansha, WANLP 2022.
+If you are going to use the dataset, please cite "CAraNER: The COVID-19 Arabic Named Entity Corpus", Abdulmohsen Al-Thubaity, Sakhar Alkhereyf, Wejdan Alzahrani, and Alia Bahanshal, WANLP 2022.
